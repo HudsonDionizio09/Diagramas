@@ -150,6 +150,6 @@ FROM
     tb_vendas ON fun_matricula = ven_fun_matricula
 WHERE
     ven_id IS NULL;
- ;
+ 
 
 
